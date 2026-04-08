@@ -1,0 +1,724 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "A3B52D68-9374-483C-9109-5D72908EEF63",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/anderson-wide.png",
+              "title": "Anderson",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Paul Thomas Anderson",
+                    "listSlug": "paul-thomas-anderson",
+                    "traktId": 31014346,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "5703512B-45AB-48AD-A6FB-536B8088A118",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/carpenter-wide.png",
+              "title": "Carpenter",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "John Carpenter",
+                    "listSlug": "john-carpenter",
+                    "traktId": 31014355,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "6E35A204-091F-464F-80C1-47D8A3F6767A",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/depalma-wide.png",
+              "title": "Depalma",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Brian De Palma",
+                    "listSlug": "brian-de-palma",
+                    "traktId": 31014353,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "E72D41A3-F96C-4B85-8662-B191EDF66809",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/fincher-wide.png",
+              "title": "Fincher",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "David Fincher",
+                    "listSlug": "david-fincher",
+                    "traktId": 31014339,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "AA51CAAF-38A7-44FE-ABA2-4AC8F53D5961",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/hitchcock-wide.png",
+              "title": "Hitchcock",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Alfred Hitchcock",
+                    "listSlug": "alfred-hitchcock",
+                    "traktId": 31014342,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9D22228D-ADDC-4D4F-8594-F6DF8DBB5641",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/kubrick-wide.png",
+              "title": "Kubrick",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Stanley Kubrick",
+                    "listSlug": "stanley-kubrick",
+                    "traktId": 31014332,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "FA56D791-2458-4112-AAF1-42D7836B77FF",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/nolan-wide.png",
+              "title": "Nolan",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Christopher Nolan",
+                    "listSlug": "christopher-nolan",
+                    "traktId": 31014301,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "2DB6594C-1C90-4EFF-B346-DA9A0FD29CA3",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/scorsese-wide.png",
+              "title": "Scorsese",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Martin Scorsese",
+                    "listSlug": "martin-scorsese",
+                    "traktId": 31014311,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "D7F19460-A017-4617-9B7B-4A7CF593EF91",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/spielberg-wide.png",
+              "title": "Spielberg",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Steven Spielberg",
+                    "listSlug": "steven-spielberg",
+                    "traktId": 31014326,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "4C6C3F02-37AB-4C92-970C-DC95C0A78EE7",
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/directors/wide/fexm92/villeneuve-wide.png",
+              "title": "Villeneuve",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Denis Villeneuve",
+                    "listSlug": "denis-villeneuve",
+                    "traktId": 31014352,
+                    "username": "Mawsa"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "id": "collection.65621217-5993-4561-A2E3-2C273A6F51E9",
+      "title": "Directors",
+      "type": "collection.row"
+    },
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "5547794B-EC2B-4EB1-A279-59DD8B9E68D5",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/bafta-poster.png",
+              "title": "Bafta",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "BAFTA - Best Film Award Winners",
+                    "listSlug": "bafta-best-film-award-winners",
+                    "traktId": 24791084,
+                    "username": "foux72"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "1854F61F-795D-47FD-8A56-263892495F63",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/fisa-poster.png",
+              "title": "Fisa",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Film Independent Spirit Awards — Best Feature",
+                    "listSlug": "film-independent-spirit-awards-best-feature",
+                    "traktId": 32197432,
+                    "username": "victorchagas"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "835AE7F9-95C1-423B-A022-57EEC742C046",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/goldenglobes-poster.png",
+              "title": "Goldenglobes",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Rotten Tomatoes’ Golden Globes Best Picture Winners by Tomatometer copy",
+                    "listSlug": "rotten-tomatoes-golden-globes-best-picture-winners-by-tomatometer-copy",
+                    "traktId": 6241767,
+                    "username": "danielle0412"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3EEC6A99-33B9-4904-9582-494BD073CAEC",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/iff-poster.png",
+              "title": "Iff",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Festival de Cannes: Palme d'Or winners",
+                    "listSlug": "festival-de-cannes-palme-d-or-winners",
+                    "traktId": 32434377,
+                    "username": "PierreDurrr"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "420AD8A0-C7C1-42AF-905C-0D22716BE0EB",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/oscars-poster.png",
+              "title": "Oscars",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "The Oscars: Best Picture Nominees",
+                    "listSlug": "the-oscars-best-picture-nominees",
+                    "traktId": 33535789,
+                    "username": "jackrabbitslim"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "72477A10-9855-4B9D-B1C2-7E421242653B",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/awards/poster/mousa.a/viff-poster.png",
+              "title": "Viff",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Venice Film Festival",
+                    "listSlug": "venice-film-festival",
+                    "traktId": 6666498,
+                    "username": "Zorge88"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "id": "collection.730EB165-0747-4CC4-8C78-C8A2FA5FEEBA",
+      "title": "Awards",
+      "type": "collection.row"
+    },
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "2374975F-C711-4445-8AD7-E0B43DDBD996",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/appletv-square.png",
+              "title": "Appletv",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Apple TV+ Movies",
+                    "listSlug": "top-apple-tv-movies",
+                    "traktId": 33032900,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Apple TV+ Shows",
+                    "listSlug": "top-apple-tv-shows",
+                    "traktId": 33032894,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "A0CDC31F-7CEB-4294-BA90-6CC9920BF2FE",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/bet-square.png",
+              "title": "Bet",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "BET+ Movies",
+                    "listSlug": "bet-movies",
+                    "traktId": 30828837,
+                    "username": "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "BET+ Shows",
+                    "listSlug": "bet-shows",
+                    "traktId": 30828845,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "04D53802-4680-41BB-9957-B3BEDC6E9447",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/crunchyroll-square.png",
+              "title": "Crunchyroll",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Crunchyroll - Movies",
+                    "listSlug": "crunchyroll-movies",
+                    "traktId": 31454433,
+                    "username": "Frostypolicia"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Crunchyroll - Shows",
+                    "listSlug": "crunchyroll-shows",
+                    "traktId": 31475824,
+                    "username": "Frostypolicia"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "48CA5AEA-E5F0-4F1D-827E-72EDC958D010",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/curiositystream-square.png",
+              "title": "Curiositystream",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Curiosity Stream",
+                    "listSlug": "curiosity-stream",
+                    "traktId": 31335828,
+                    "username": "Mgperdices"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "D9E6CBA1-B458-47A6-AB9D-C9AFF1A8C6C6",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/discoveryplus-square.png",
+              "title": "Discoveryplus",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Discovery+",
+                    "listSlug": "discovery",
+                    "traktId": 21043278,
+                    "username": "moviemankev79"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "572AA72D-46A5-41B7-9264-2AD8173211CC",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/disney-square.png",
+              "title": "Disney",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Disney+ Movies",
+                    "listSlug": "top-disney-movies",
+                    "traktId": 33032904,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Disney+ Shows",
+                    "listSlug": "top-disney-shows",
+                    "traktId": 33032903,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "81BD7BA6-3BD2-4F3D-9D5E-AF101B78A7C0",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/hbomax-square.png",
+              "title": "Hbomax",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top HBO Max Movies",
+                    "listSlug": "top-hbo-max-movies",
+                    "traktId": 33032914,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top HBO Max Shows",
+                    "listSlug": "top-hbo-max-shows",
+                    "traktId": 33032911,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "4509D315-35DA-460E-BD0A-902AD4C3902D",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/hulu-square.png",
+              "title": "Hulu",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Hulu Movies",
+                    "listSlug": "top-hulu-movies",
+                    "traktId": 33118941,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Hulu Shows",
+                    "listSlug": "top-hulu-shows",
+                    "traktId": 33118956,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "FC9EBB09-F11F-4FF7-8558-1AEC14380041",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/livetv-square.png",
+              "title": "Livetv"
+            },
+            {
+              "hideTitle": true,
+              "id": "E7798AFE-80DC-4D15-A558-A99181E0B05A",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/magllentv-square.png",
+              "title": "Magllentv",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "MagellanTV List By Steffe73",
+                    "listSlug": "magellantv-list-by-steffe73",
+                    "traktId": 23706454,
+                    "username": "Steffe73"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "BB7A6711-97D8-4EAE-97FC-F13CAEC90385",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/max-square.png",
+              "title": "Max",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Max Movies",
+                    "listSlug": "max-movies",
+                    "traktId": 30828916,
+                    "username": "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Max Shows",
+                    "listSlug": "max-shows",
+                    "traktId": 30828923,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9776EBB2-7E8B-407B-9FC8-139B7C40CCE9",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/netflix-square.png",
+              "title": "Netflix",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Netflix Movies",
+                    "listSlug": "top-netflix-movies",
+                    "traktId": 33032882,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Netflix Shows",
+                    "listSlug": "top-netflix-shows",
+                    "traktId": 33032878,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "8903A944-347C-4440-9781-FDF0B6F29B44",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/paramount-square.png",
+              "title": "Paramount",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Paramount+ Movies",
+                    "listSlug": "top-paramount-movies",
+                    "traktId": 33032910,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Paramount+ Shows",
+                    "listSlug": "top-paramount-shows",
+                    "traktId": 33032908,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "BD2F64E0-6C39-4021-B6C7-DB96B72B91BF",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/peacock-square.png",
+              "title": "Peacock",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Peacock Movies",
+                    "listSlug": "peacock-movies",
+                    "traktId": 30504299,
+                    "username": "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Peacock Shows",
+                    "listSlug": "peacock-shows",
+                    "traktId": 30504294,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "2E0DC4A9-D25B-4821-A726-6FD879879EA8",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/primevideo-square.png",
+              "title": "Primevideo",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Amazon Prime Movies",
+                    "listSlug": "top-amazon-prime-movies",
+                    "traktId": 33032892,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Amazon Prime Shows",
+                    "listSlug": "top-amazon-prime-shows",
+                    "traktId": 33032887,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "12C85842-3464-4607-B3DA-B29592CEF098",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/skyshowtime-square.png",
+              "title": "Skyshowtime",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "skyshowtime",
+                    "listSlug": "skyshowtime",
+                    "traktId": 33841165,
+                    "username": "certefied"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9303C8F9-CD02-4C10-A5ED-21FDA720DBD4",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/videoland-square.png",
+              "title": "Videoland",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Videoland",
+                    "listSlug": "videoland",
+                    "traktId": 33831285,
+                    "username": "certefied"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "id": "collection.8D15C928-5FD6-451F-90D5-6769D72379EC",
+      "title": "Streaming",
+      "type": "collection.row"
+    }
+  ]
+}
