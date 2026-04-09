@@ -1,0 +1,415 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/d7\/d9\/af\/d7d9af44-b700-3d87-6222-e1bf7480a241\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "series::mdblist.86751",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.86751",
+          "catalogType" : "series"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.86752",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "F56BC769-7FB2-4BAB-90AF-6C26856923B6",
+    "layout" : "Wide",
+    "name" : "Netflix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.postimg.cc\/L5b2Tyhb\/netflix_kids.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::streaming.nfk_movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::streaming.nfk_movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::streaming.nfk_series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "6C3D550D-5FA3-451A-B3DE-951EFC91B669",
+    "layout" : "Wide",
+    "name" : "Netflix Kids"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/41\/f8\/28\/41f8282a-cd8f-53bf-7189-d46245a17136\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.86755",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.86755",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.86753",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "88783469-B713-416F-B8E7-471E1E900C8D",
+    "layout" : "Wide",
+    "name" : "Prime Video"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/2d\/8c\/71\/2d8c715e-eb1e-7abd-21bb-4a82aeaefe4d\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.89647",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.89647",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.89649",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "9B5527C5-5EBA-4FD9-861E-686D8B83061A",
+    "layout" : "Wide",
+    "name" : "HBO Max"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/00\/28\/fa\/0028fa69-ce58-2b2d-1136-0c3a200688f6\/App_Icon_-_Small-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.86759",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.86759",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.86758",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A0501E96-2589-4738-B784-75EE793FB8CD",
+    "layout" : "Wide",
+    "name" : "Disney+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/e6\/c0\/1d\/e6c01dd2-26a8-fe8a-8009-7207aeffd708\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "series::mdblist.86761",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.86761",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "AFA89A61-9B12-4C66-BE24-DF9440606041",
+    "layout" : "Wide",
+    "name" : "Paramount+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/38\/37\/a9\/3837a99a-6d55-c1d8-2d32-1119f3a6496f\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.127955",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.127955",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.127954",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "72C8E2DC-C194-493F-ACD3-3C69647F0084",
+    "layout" : "Wide",
+    "name" : "Hulu"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/e7\/a6\/13\/e7a61331-351d-83a9-4502-b2bde205139f\/App_Icon_-_Small-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.86757",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.86757",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.86625",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "1DD4FACF-8391-49F6-A574-9F2626C0D722",
+    "layout" : "Wide",
+    "name" : "Apple TV"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/05\/2c\/5b\/052c5bd5-cce7-b566-65f9-5f664a9bb86e\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::mdblist.83487",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::mdblist.83487",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::mdblist.83484",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "5F13A02A-03F8-4F20-AEDC-197FA51718A9",
+    "layout" : "Wide",
+    "name" : "Peacock"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/a3\/fa\/49\/a3fa4946-c976-8434-910f-a3292900b13b\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::streaming.cts_movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::streaming.cts_movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::streaming.cts_series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "96515F1E-1179-4D9B-AB15-905C45363571",
+    "layout" : "Wide",
+    "name" : "Curiosity Stream"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/a2\/79\/50\/a279501e-60d8-ed44-6c24-015ef83eb20b\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::streaming.sst_movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::streaming.sst_movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::streaming.sst_series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "4676669A-5BE9-4C15-A8A9-B92C9E65004C",
+    "layout" : "Wide",
+    "name" : "SkyShowtime"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/ac\/68\/4b\/ac684b0a-5320-0d07-f974-b6b1b78bd77a\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "series::streaming.hay_series",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::streaming.hay_series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "F2DB7366-D584-464C-96DD-4DFAFDB83726",
+    "layout" : "Wide",
+    "name" : "Hayu"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/23\/e3\/10\/23e31010-7b0e-d1e7-df60-a676b8894cef\/App_Icon-marketing.lsr\/3840x2304bb.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+        "catalogId" : "movie::streaming.dpe_movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "movie::streaming.dpe_movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/bd930875-6b3f-45bd-8b01-b5e73cff1331\/manifest.json",
+          "catalogId" : "series::streaming.dpe_series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "C0914E9F-EC5F-4C7E-A686-7C1CC2C7E303",
+    "layout" : "Wide",
+    "name" : "Discovery+"
+  }
+]
