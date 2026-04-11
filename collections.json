@@ -1,0 +1,115 @@
+[
+  {
+    "id": "c471eef0-f875-48df-9c40-0bf8e9300aa3",
+    "title": "Netflix",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "57b0eec5-080c-4db3-98c8-9f1d515167f8",
+        "title": "Netflix",
+        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22399289",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "483f06b2-292b-4bea-becd-2d0da2644049",
+        "title": "Disney",
+        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22399275",
+            "type": "Series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "92ea247b-662f-42c2-8ecf-10b93eb9d760",
+        "title": "Apple ",
+        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22490340",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "aaadf8ad-8d7a-4915-8a76-40168c88b674",
+        "title": "HBO",
+        "coverImageUrl": "https://i.postimg.cc/MT2fZ1Rz/HBO-Max.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "e35a2bfb-583e-45bf-93a2-2f3fe3f85c23",
+        "title": "prime",
+        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22399268",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8d07a267-13b8-4b66-821a-0134a951ccb5",
+        "title": "Paramount",
+        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
+        "focusGifUrl": null,
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24957249",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  }
+]
